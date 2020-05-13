@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-hiii
-=======
-we
->>>>>>> test
+hiiiiiiii
